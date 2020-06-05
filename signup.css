@@ -1,0 +1,42 @@
+h2{
+    color: rgb(248, 8, 188);
+}
+p{
+    color: rgb(151, 47, 125);
+    text-align: center;
+        font-style: italic;
+}
+body{
+    background-color: slategray;
+}
+input[type='text']{
+    
+    padding: 10px 16px;   
+}
+input[type='password']{
+     padding: 10px 16px;   
+}
+
+input{
+    background-origin: padding-box;
+    box-sizing: initial;
+    size: 30px;
+    border-style: groove;
+    border: 2px ;
+    border-radius: 5px;
+    }
+    form{
+
+        margin-top: 80px;
+        border-style: groove;
+        width: 309px;
+        height: inherit;
+        align-self: center;
+        bottom: initial;
+        background-color: lightsteelblue;
+    }
+    button{
+        background-color: purple;
+        color: white;
+        width: 30%;
+    }
